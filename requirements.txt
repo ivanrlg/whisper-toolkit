@@ -1,0 +1,5 @@
+faster-whisper
+whisperx
+srt
+groq
+torch

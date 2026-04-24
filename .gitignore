@@ -1,0 +1,46 @@
+# Audio/video inputs
+*.mp3
+*.mp4
+*.wav
+*.m4a
+*.ogg
+*.flac
+*.webm
+*.aac
+
+# Generated outputs
+*_transcription.txt
+*_transcription.json
+*_subtitles.srt
+*_subtitles.vtt
+*_clean.txt
+*_summary.txt
+*_minutes.txt
+*_groq_transcription.json
+
+# Secrets / env
+.env
+.env.local
+secrets.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Claude Code
+.claude/
