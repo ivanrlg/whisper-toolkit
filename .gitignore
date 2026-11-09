@@ -42,5 +42,12 @@ Thumbs.db
 .idea/
 *.swp
 
+# Simple transcription jobs and exports
+Transcripciones_simples/
+transcripcion_completa.zip
+Transcripciones_Whisper/
+.venv-free-test/
+.free-smoke/
+
 # Claude Code
 .claude/
